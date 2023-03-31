@@ -1,5 +1,6 @@
 import './App.css'
 
+
 export function App() {
 	return (
 		<div className="flex items-center justify-center w-full h-full bg-cyan-500 relative">
